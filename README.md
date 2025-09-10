@@ -20,6 +20,7 @@ int main() {
 #include <iostream>
 using namespace std;
 //WHILE LOOP
+
 int main() {
      string sagot;
      while(sagot != "yes" ){
