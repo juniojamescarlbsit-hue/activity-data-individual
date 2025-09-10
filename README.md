@@ -20,7 +20,6 @@ int main() {
 #include <iostream>
 using namespace std;
 //WHILE LOOP
-
 int main() {
      string sagot;
      while(sagot != "yes" ){
@@ -33,9 +32,16 @@ int main() {
      }else{
      cout << "Ipasamo na po kami please \n" << endl;
      }
-       
+     
+     
+     
+     
      }
-             
+     
+     
+     
+     
+     
     return 0;
 }
 
